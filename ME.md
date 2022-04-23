@@ -1,8 +1,11 @@
 Store Sales – Time Series Forecasting
+
 RetaiLabs Inc.
+
 Brian Avila, Zoe Coughlan, Noah Welsh
+
 CS-301 Spring Semester 2022
-Ying Wu College of Computing, New Jersey Institute of Technology
+
 
 Abstract. As grocery retailers like Walmart, Costco, Target etc., embark on the adding of new locations with unique needs, new products, ever-transitioning seasonal tastes, and unpredictable product marketing alongside their pre-established locations, they are met with the predictability issue of potentially understocking popular items or overstocking perishable goods. RetaiLabs Inc. pushes to combat the potential issue for retailers through usage of Linear Regression Models in connection with Time Series Forecasting. Through the process of analyzing the data provided by a retailer using statistics and modeling to make predictions and informed strategic decisions alongside proper data manipulation through our models of choice (Linear Regression and Gradient Descent) we strive to ensure retailers please customers by having just enough of the right products at the right time as it further results in decreased food waste and improvements towards customer satisfaction by providing proper forecasting. Through the application of our models of choice with inclusion of proper JAX implementations, using data sets provided by Corporacion Favorita, a large Ecuadorian-based grocery retailer we were able to provide them a display between the relations in sales and decreased oil prices/sales, alongside further developing models for the displaying of correlation between increase in overall sales within the same time frame of oil price drops for the Ecuadorian retailer.
 
