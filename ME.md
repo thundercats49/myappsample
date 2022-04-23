@@ -25,10 +25,16 @@ Methodologically, our approach is based on correlation between sales and the eco
 5	Experiment 
 
 Our initial and most basic experiment involved direct comparison of oil prices and sales over time. This comparison involved scaling these sets of values to allow us to overlay them on the same graph using the same range of times so that they are directly comparable. By viewing the trends visually, we were able to obtain a baseline for what the relationship between oil prices and sales is.
+
+- REFERENCE IMAGE 1
  
 As for linear regression and gradient descent, we applied JAX in tandem with Scikit-learn. We generated predicted and actual values based on two sets of features within the data. One set of features, as shown below, is solely dates and sales, without regard for oil prices.
  
+- REFERENCE IMAGE 2
+
 The other takes oil prices into account to generate a prediction based on average sales over time.
+ 
+- REFERENCE IMAGE 3 
  
 The other takes oil prices into account to generate a prediction based on average sales over time.
 
